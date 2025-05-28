@@ -1,4 +1,4 @@
-A waybar custom module for showing current internet speed.
+A waybar custom module for showing current internet speed, inspired by [this issue](https://github.com/Alexays/Waybar/issues/2162)
 
 ![image](https://github.com/user-attachments/assets/bbcd94b3-e41b-4292-8ebd-48fa5b1a9a83)
 
